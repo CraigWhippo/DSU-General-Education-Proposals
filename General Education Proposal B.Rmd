@@ -1,0 +1,429 @@
+---
+title: "General Education Proposal B"
+author: "Dickinson State University"
+date: '`r format(Sys.time(), "%B %d, %Y")`'
+output: rmarkdown::tufte_handout
+---
+
+# Mission Statement
+
+\newthought{In alignment with Dickinson State University's mission}, the General Education program both complements and transcends individual academic emphases. Through the General Education curriculum^[39 TOTAL CREDITS REQUIRED], students demonstrate the following proficiencies: effective communication, citizenship, critical and creative thinking, and integrative learning. In meeting these proficiencies, students mature into independent life-long learners.
+
+--------------------------------
+
+# General Education Learning Outcomes
+
+## Communication^[9 CREDITS REQUIRED]
+\newthought{Definition:} Communication is the sharing of ideas through written, oral, and symbolic language. It involves the active expression and reception of ideas through multiple technologies, physical and spoken language, mixed texts, data, and images.
+\newthought{Goal Statement:} Students will apply multiple conventions of expression to achieve shared understanding of meaning.
+
+\newthought{Student Outcomes:} 
+
+
+1. Adapt modes and styles of writing to different purposes, audiences, media, and contexts.
+2. Develop effective pre-writing, researching, drafting, revising, proofreading, and editing processes.
+3. Utilize writing technologies crucial to performance in today's writing-intensive professions. 
+4. Organize and convey a central message via oral communication, using supporting evidence and adapting language and delivery for audience
+5. Initiate and negotiate in a collaborative setting by listening to, building upon, verifying, or challenging others' ideas and conclusions
+
+\newpage
+
+\newthought{Required Coursework:}
+Students are required to pass nine credits of communication coursework with at least one course from each list in table one. 
+
+------------------------------------------------------------------------------------------------------------
+                                                    Outcomes
+List Course                     GERTA      Credits   1           2         3        4       5
+---- -------------------------- --------- --------- ----------- --------- -------- ------ ------- 
+A     ENGL 110:                 ENGL       3          +           +         +       -      -
+      *College Composition I*
+
+A     ENGL 111H:                ENGL       3          +           +         +       -      -
+      *Honors College*
+      *Composition I*
+
+B     ENGL 120:                 ENGL       3          +           +        +        -      -
+      *College Composition II*
+
+B     ENGL 121H:                ENGL       3          +           +        +        -      -
+      *Honors College*
+      *Composition II*
+
+C     COMM 110:                 COMM       3           -           -       -        +      +   
+      *Public Speaking*
+
+C     COMM 111H:                COMM       3           -           -       -        +      +   
+      *Honors Public*
+      *Speaking*
+----------------------------------------------------------------------------------------------------------
+Table: Communication Courses
+
+---------------------------------------------------
+
+\newpage
+## Citizenship^[8 CREDITS REQUIRED]
+\newthought{Definition:} Citizenship involves individuals attuned to the multiple perspectives inherent in our socially and culturally diverse world. Citizens are cognizant of their own health and well-being, demonstrate an understanding of the impact one has on the arenas outside of the self, and engage with complex, authentic issues both locally and globally.
+\newthought{Goal Statement:} Students will progressively maintain their personal health and well-being and consider diverse social-cultural perspectives as they navigate and evaluate approaches to local and global issues.
+
+\newthought{Student Outcomes:}
+
+1. Identify and incorporate strategies leading to individual health and well-being
+2. Predict and analyze the effects that one's decisions have on the well-being of others
+3. Navigate political, social, and cultural structures, utilizing multiple viewpoints, to contribute to a community's values and practices
+4. Apply technology effectively, safely and ethically in an evolving society
+
+\newpage
+\newthought{Required Coursework:}
+Students are required to pass nine credits of citizenship coursework with at least one course from each list in table two. 
+
+------------------------------------------------------------------------------------------------------------
+                                                    Outcomes
+List Course                  GERTA      Credits   1           2         3        4    
+---- ----------------------- --------- --------- ----------- --------- -------- ------ 
+A      CSCI 100:                COMPSC      3          +        -         -        +  
+      *Introduction to*
+      *Computers*
+
+B      COMM 216:                 SS         3          +           +         +    +
+      *Intercultural*
+      *Communications*
+
+B      POLS 115:                 SS         3          +           +         +     + 
+      *American*
+      *Government*
+
+B      PSYC 111:                   SS        3          ?           ?        ?     ?
+       *Introduction to*
+       *Psychology*
+
+B      SOC 110:                  SS         3          -           -         +      +  
+      *Introduction to*
+      *Sociology*
+      
+B      SOC  115:                     SS     3          ?           ?       ?       ?
+      *Social Problems*
+
+C      HYPER 100:                            2          +           +         -        -
+       *Concepts of*
+       *Health & Wellness*
+      
+C      NURS 240:                             2          +           +         -        -
+       *Fundamentals of*
+       *Nutirition*
+       
+----------------------------------------------------------------------------------------------------------
+Table: Citizenship Courses
+
+--------------------------------------------
+
+\newpage
+## Critical and Ceative Thinking^[16 CREDITS REQUIRED]
+
+\newthought{Definition:} Critical and creative thinking are intellectual skills in which knowledge and literacy are used to process information, construct understanding, apply knowledge, solve problems, and conduct inquiry. 
+\newthought{Goal Statement:} Upon completion of the General Education curriculum, students will consciously and correctly use critical and creative thinking skills while gaining knowledge of the Arts and Humanities, 
+Mathematics, Natural Sciences, and Social Sciences.
+
+\newthought{Student Outcomes:}
+
+1. Process information by collecting, generating, organizing, retrieving, recognizing underlying assumptions, or validating evidence 
+2. Construct understanding by analyzing, synthesizing, revealing meaning, or validating knowledge
+3. Apply knowledge by performing, modeling, being creative in a new context, or validating results
+4. Solve problems by identifying components, structuring information, anticipating consequences, or creating and improving solutions 
+5. Conduct inquiry by formulating research questions, obtaining evidence, explaining knowledge, depicting knowledge, validating or evaluating scholarship
+
+
+\newpage
+\newthought{Required Coursework:}
+Students are required to pass 16 credits of critical and creative thinking coursework with at least one course from each list in table three. 
+
+------------------------------------------------------------------------------------------------------------
+                                                       Outcomes
+List Course                       GERTA      Credits   1           2         3        4       5
+---- ---------------------------- --------- --------- ----------- --------- -------- ------ ------- 
+A     ART 122:                    FA         3         +           +          +       +      +
+      *2-Dimensional*
+      *Design*
+       
+A     ART 130:                    FA         3        +           +          +       +      +
+      *Drawing I*
+
+A     ART 250:                    FA         3        +           +          +       +      +
+      *Ceramics 1*
+
+A     MUSC 140-440A:              FA         3        ?            ?           ?        ?       ?
+      *Chorale*
+
+A     MUSC 141-441B:              FA         3        ?            ?           ?         ?     ?            
+      *Concert Band*
+
+A     THEA 201-301:               FA         3        ?             ?          ?       ?      ?
+      *Theatre Practium*
+
+B     ART 110:                    HUM        3         +           +          +       +      +
+      *Introduction to*
+      *the Visual Arts*
+
+B     COMM 211:                   HUM       3          ?            ?           ?     ?     ?
+      *Oral Interpretation*
+      
+B     COMM 280:                   HUM        3        +           +          +       +      +
+      *Film and TV*
+      
+B     ENGL 232:                   HUM        3        +           +          +       +      +
+      *Mythology*
+
+B     ENGL 220:                   HUM         3        ?          ?           ?       ?       ?
+      *Introduction*
+      *To Literature*
+      
+B     ENGL 240:                   HUM        3          ?         ?           ?       ?      ?
+      *Masterpieces*
+      *of World Literature*
+      
+B     MUSC 100:                    HUM        3       ?            ?          ?       ?      ?
+      *Music Appretiation*
+
+B     THEA 110:                    HUM          3       ?          ?          ?       ?      ? 
+      *Introduction*
+      *to the Theatre Arts*
+
+C     MATH 103:                   MATH       4        +           +          +       +      +
+      *Collge Algebra*
+
+C     MATH 110:                   MATH*       3       ?            ?          ?       ?      ?
+      *Liberal Arts*
+      *Mathmatics*
+
+C     MATH 146:                   MATH        4        ?           ?          ?       ?      ?  
+      *Applied*
+      *Calculus I*
+      
+C     MATH 165:                    MATH       4        ?           ?          ?        ?      ?
+      *Calculus I*
+
+C     MATH 305:                    MATH       4        +           +          +       +      +
+      *Probability &*
+      *Statistics*
+
+D     BIOL 111/L:                  LABSC      4        +           +          +       +      +
+      *Concepts of*
+      *Biology*
+      
+D     BIOL 112/L:                  LABSC     4         ?           ?          ?       ?       ?
+      *Exploring*
+      *Human Health*
+      *in Our Evnironment*
+      
+D     BIOL 151/L:                  LABSC*     4        +           +          +       +      +
+      *General*
+      *Biology II*
+
+D     CHEM 115/L:                  LABSC       4      ?           ?           ?       ?      ?
+      *Introduction to*
+      *Chemistry*
+
+D     CHEM 116/L:                  LABSC       4      ?           ?           ?       ?      ?
+      *Introduction to*
+      *Organic &*
+      *Biochemistry*
+
+D     CHEM 121/L:                  LABSC       4      ?           ?           ?       ?      ?
+      *General*
+      *Chemsitry I*
+
+D     GEOL 105/L:                  LABSC      4        ?           ?         ?       ?       ?
+      *Physical*
+      *Geology*
+      
+D     PHYS 211/L:                 LABSC      4        +           +          +       +      +
+      *College*
+      *Physics I*
+      
+D     PHYS 251/L:                 LABSC      4        +           +          +       +      +
+      *University*
+      *Physics I*
+
+D     SCNC 105:                    LABSC      4        +           +          +       +      +
+      *Physical*
+      *Science*
+
+E     ECON 105:                     SS         3        +           +          +       +      +
+      *Elements*
+      *of Economics*
+
+E     ECON 106:                     SS         3        +           +          +       -      -
+      *Global*
+      *Economics*
+
+E     ECON 201:                     SS         3        +           -          +       +      +
+      *Principles of*
+      *Microeconomics*
+
+E     ECON 202:                    SS*        3        +           +          +       +      +
+      *Principles of*
+      *Macroeconomics*
+
+E     HIST 103:                   HIST       3        +           +          +       +      +
+      *United States*
+      *To 1877*
+
+E     HIST 104:                   HIST       3        +           +          +       +      +
+      *United States*
+      *Scince 1877*
+
+E     HIST 211:                   HIST       3        +           +          +       -      -
+      *World Civilizations*
+      *To 1500*
+
+E     HIST 212:                   HIST       3        +           +          +       +      +
+      *World Civilizations*
+      *Since 1500*
+
+----------------------------------------------------------------------------------------------------------
+Table: Critical and Creative Courses
+
+-----------------------------------------------------
+
+\newpage
+## Integrative Learning^[3 CREDITS REQUIRED]
+
+\newthought{Definition:} Integrative Learning is the awareness and application of skills in multiple contexts, which lead to new insights, as well as personal, social, and intellectual development.
+
+
+\newthought{Goal Statement:} Students will understand the broader implications of discipline-based knowledge and demonstrate an ability to connect ideas and methods across contexts and apply them to new problems.
+
+\newthought{Student Outcomes:}
+
+1. Integrate concepts and analytical frameworks from multiple perspectives to develop one or more of the following: more comprehensive descriptions, multi-causal explanations, new interpretations, or deeper explorations of issues
+2. Analyze and reflect upon insights gained from integrating multiple perspectives in a project or experience
+3. Describe, evaluate, or interpret problems using concepts and methods from at least two diverse disciplines
+
+\newpage
+
+\newthought{Required Coursework:}
+Students are required to pass three credits of integrative learning coursework from table four. These courses can also contribute towards the critical and creative thinking requirements.
+
+-------------------------------------------------------------------------------------------
+                                            Learning Objectives
+Courses              GERTA      Credits   1           2           3        
+-------------------- --------- --------- ----------- ----------- --------
+THEA 201/301:             FA         3         +           +           +
+*Theatre Practium*
+
+COMM 211:                 HUM        3         +           +           +
+*Oral Interpretation*
+
+ENGL 220:                 HUM        3         +           -           +
+*Introduction*
+*To Literature*
+
+ENGL 240:                 HUM        3         +           +           +
+*Masterpieces*
+*of World Literature*
+
+MUSC 100:                HUM        3         +           +           +
+ *Music Appretiation*
+
+GEOL 105/L:              LABSC      4         +           +           +
+*Physical*
+*Geology*
+
+PSYC 111:                 SS        3          +           +           +
+*Introduction to*
+*Psychology*
+
+SOC 115:                  SS        3          +           +           +
+*Social Problems*
+-------------------------------------------------------------------------------------------
+Table: Integrated Learning Courses
+
+---------------------------------------------
+
+\newpage
+
+## Broadening Perspective Electives^[6 CREDITS REQUIRED]
+
+\newthought{Definition:} TBD
+
+\newthought{Goal Statement:} TBD
+
+\newthought{Required Coursework:} Students are required to pass six elective credits in two different GERTA general education areas^[COMM, FA, HUM, SS, MATH, LABSC, or COMPSC] that are not hosted by their major department.  If a student changes their major, then they may need to take additional electives to fulfill the broadening perspective elective requirements.
+
+------------------------------
+
+# General Education Assessement
+
+All instructors and departments that teach or host courses for the General Education Program are required to participate in the the assessment of student learning within the General Education Program.  The General Education Council is responsible for recommending changes to the assessment framework for ultimate approval by Faculty Senate.  The Assessment Committee under the supervision of Academic Affairs is responsible for implementing the General Education Assessment framework adopted by Faculty Senate.
+
+-----------------------------
+
+\newpage
+
+# APPENDIX
+
+## GERTA Alignment
+
+------------------------------------------------------------------------------------------------------------
+                                                          Minimal Credits
+General Education Area                                    GETA    DSU
+-------------------------------------------------------- -------- --------- 
+Communications                                             9             9         
+
+Arts & Humanities                                          6             6         
+
+Social Sciences                                            6             6         
+
+Mathematics, Science,and Technology                         9            10        
+
+Institution Specific                                       6             6         
+                 
+Health & Wellness                                          0             2         
+
+**Total**                                                **36**       **39**
+-------------------------------------------------------------------------------------------------
+Table: Comparison of GERTA and DSU General Education Credit Requirements
+
+------------------------------------------
+
+\newpage
+
+## Interstate Passport Allignment
+
+------------------------------------------------------------------------------------------------------------
+Foundation Skills                   DSU General Education Category           List(s)                        
+----------------------------------- --------------------------------------- -----------
+Oral Communications                        Communication                       C
+
+Written Communications                     Communication                       A & B
+
+Quantitative Literacy                     Critical & Creative Thinking         C
+
+-------------------------------------------------------------------------------------------------
+Table: Mapping of Interstate Passport foundation-skill blocks to DSU general education learning outcomes
+
+------------------------------------------------------------------------------------------------------------
+Knowledge Areas                  DSU General Education Category           List(s)                        
+-------------------------------- --------------------------------------- ---------------
+Natural Sciences                 Critical & Creative Thinking                D
+
+Human Cultures                   Critical & Creative Thinking              B & E
+
+Human Society                    Citizenship                                 B
+
+Creative Expression              Critical & Creative Thinking                A
+
+-------------------------------------------------------------------------------------------------
+Table: Mapping of Interstate Passport knowledge-area blocks to DSU general education learning outcomes
+
+------------------------------------------------------------------------------------------------------------
+Knowledge Areas                  DSU General Education Category           List(s)                        
+-------------------------------- --------------------------------------- ---------------
+Critical Thinking                Critical & Creative Thinking                All
+
+Teamwork & Values                Communications                              D
+
+-------------------------------------------------------------------------------------------------
+Table: Mapping of Interstate Passport crosscutting-skill blocks to DSU General Education learning outcomes
+
+
+---------------------------------------------------
