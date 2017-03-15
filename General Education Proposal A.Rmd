@@ -30,7 +30,7 @@ output: rmarkdown::tufte_handout
 \newpage
 
 \newthought{Required Coursework:}
-Students are required to pass three credits of integrative learning coursework from table four during their first year of enrollement at DSU.
+Students are required to pass three credits of integrative learning coursework from table one during their first year of enrollement at DSU.
 
 -------------------------------------------------------------------------------------------
                                             Learning Objectives
@@ -364,7 +364,7 @@ Table: Critical and Creative Courses
 
 \newthought{Goal Statement:} TBD
 
-\newthought{Required Coursework:} Students are required to pass three elective credits in two different GERTA general education areas^[COMM, FA, HUM, SS, MATH, LABSC, or COMPSC] that are not hosted by their major department.  If a student changes their major, then they may need to take additional electives to fulfill the broadening perspective elective requirements.
+\newthought{Required Coursework:} Students are required to pass three elective credits in GERTA general education areas^[COMM, FA, HUM, SS, MATH, LABSC, or COMPSC] that are not hosted by their major department.  If a student changes their major, then they may need to take additional electives to fulfill the broadening perspective elective requirements.
 
 ------------------------------
 
