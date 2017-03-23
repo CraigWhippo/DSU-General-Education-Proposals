@@ -74,7 +74,7 @@ Table: Communication Courses
 
 \newpage
 \newthought{Required Coursework:}
-Students are required to pass nine credits of citizenship coursework with at least one course from each list in table two. 
+Students are required to pass eight credits of citizenship coursework with at least one course from each list in table two. 
 
 ------------------------------------------------------------------------------------------------------------
                                                     Outcomes
@@ -187,14 +187,14 @@ B     THEA 110:                    HUM          3       ?          ?          ? 
       *Introduction*
       *to the Theatre Arts*
 
-C     MATH 103:                   MATH       4        +           +          +       +      +
-      *Collge Algebra*
+C     MATH 103:                    MATH       4        +           +          +       +      +
+      *College Algebra*
 
 C     MATH 110:                   MATH*       3       ?            ?          ?       ?      ?
       *Liberal Arts*
       *Mathmatics*
 
-C     MATH 146:                   MATH        4        ?           ?          ?       ?      ?  
+C     MATH 146:                   MATH        3        ?           ?          ?       ?      ?  
       *Applied*
       *Calculus I*
       
@@ -365,7 +365,7 @@ All instructors and departments that teach or host courses for the General Educa
 
 ------------------------------------------------------------------------------------------------------------
                                                           Minimal Credits
-General Education Area                                    GETA    DSU
+General Education Area                                    GERTA    DSU
 -------------------------------------------------------- -------- --------- 
 Communications                                             9             9         
 
@@ -387,7 +387,7 @@ Table: Comparison of GERTA and DSU General Education Credit Requirements
 
 \newpage
 
-## Interstate Passport Allignment
+## Interstate Passport Alignment
 
 ------------------------------------------------------------------------------------------------------------
 Foundation Skills                   DSU General Education Category           List(s)                        
