@@ -80,7 +80,7 @@ Students are required to pass eight credits of citizenship coursework with at le
                                                     Outcomes
 List Course                  GERTA      Credits   1           2         3        4    
 ---- ----------------------- --------- --------- ----------- --------- -------- ------ 
-A      CSCI 100:                COMPSC      3          +        -         -        +  
+A      CSCI 101:                COMPSC      3          +        -         -        +  
       *Introduction to*
       *Computers*
 
@@ -103,7 +103,7 @@ B      SOC 110:                  SS         3          -           -         +  
 B      SOC  115:                     SS     3          ?           ?       ?       ?
       *Social Problems*
 
-C      HYPER 100:                            2          +           +         -        -
+C      HPER 100:                            2          +           +         -        -
        *Concepts of*
        *Health & Wellness*
       
@@ -117,7 +117,7 @@ Table: Citizenship Courses
 --------------------------------------------
 
 \newpage
-## Critical and Ceative Thinking^[16 CREDITS REQUIRED]
+## Critical and Creative Thinking^[16 CREDITS REQUIRED]
 
 \newthought{Definition:} Critical and creative thinking are intellectual skills in which knowledge and literacy are used to process information, construct understanding, apply knowledge, solve problems, and conduct inquiry. 
 \newthought{Goal Statement:} Upon completion of the General Education curriculum, students will consciously and correctly use critical and creative thinking skills while gaining knowledge of the Arts and Humanities, 
@@ -157,7 +157,7 @@ A     MUSC 141-441B:              FA         3        ?            ?           ?
       *Concert Band*
 
 A     THEA 201-301:               FA         3        ?             ?          ?       ?      ?
-      *Theatre Practium*
+      *Theatre Practicum*
 
 B     ART 110:                    HUM        3         +           +          +       +      +
       *Introduction to*
@@ -167,6 +167,7 @@ B     COMM 211:                   HUM       3          ?            ?           
       *Oral Interpretation*
       
 B     COMM 280:                   HUM        3        +           +          +       +      +
+      *Understanding*
       *Film and TV*
       
 B     ENGL 232:                   HUM        3        +           +          +       +      +
@@ -181,7 +182,7 @@ B     ENGL 240:                   HUM        3          ?         ?           ? 
       *of World Literature*
       
 B     MUSC 100:                    HUM        3       ?            ?          ?       ?      ?
-      *Music Appretiation*
+      *Music Appreciation*
 
 B     THEA 110:                    HUM          3       ?          ?          ?       ?      ? 
       *Introduction*
@@ -192,7 +193,7 @@ C     MATH 103:                    MATH       4        +           +          + 
 
 C     MATH 110:                   MATH*       3       ?            ?          ?       ?      ?
       *Liberal Arts*
-      *Mathmatics*
+      *Mathematics*
 
 C     MATH 146:                   MATH        3        ?           ?          ?       ?      ?  
       *Applied*
@@ -209,27 +210,9 @@ D     BIOL 111/L:                  LABSC      4        +           +          + 
       *Concepts of*
       *Biology*
       
-D     BIOL 112/L:                  LABSC     4         ?           ?          ?       ?       ?
-      *Exploring*
-      *Human Health*
-      *in Our Evnironment*
-      
 D     BIOL 151/L:                  LABSC*     4        +           +          +       +      +
       *General*
       *Biology II*
-
-D     CHEM 115/L:                  LABSC       4      ?           ?           ?       ?      ?
-      *Introduction to*
-      *Chemistry*
-
-D     CHEM 116/L:                  LABSC       4      ?           ?           ?       ?      ?
-      *Introduction to*
-      *Organic &*
-      *Biochemistry*
-
-D     CHEM 121/L:                  LABSC       4      ?           ?           ?       ?      ?
-      *General*
-      *Chemsitry I*
 
 D     GEOL 105/L:                  LABSC      4        ?           ?         ?       ?       ?
       *Physical*
@@ -269,7 +252,7 @@ E     HIST 103:                   HIST       3        +           +          +  
 
 E     HIST 104:                   HIST       3        +           +          +       +      +
       *United States*
-      *Scince 1877*
+      *Since 1877*
 
 E     HIST 211:                   HIST       3        +           +          +       -      -
       *World Civilizations*
@@ -351,7 +334,7 @@ Table: Integrated Learning Courses
 
 ------------------------------
 
-# General Education Assessement
+# General Education Assessment
 
 All instructors and departments that teach or host courses for the General Education Program are required to participate in the the assessment of student learning within the General Education Program.  The General Education Council is responsible for recommending changes to the assessment framework for ultimate approval by Faculty Senate.  The Assessment Committee under the supervision of Academic Affairs is responsible for implementing the General Education Assessment framework adopted by Faculty Senate.
 
