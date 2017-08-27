@@ -72,7 +72,7 @@ SCI 199:            SCI       3           +            +            +
 *Learning in*
 *Science*
 
-SCI 199:            COMPSC    3           +            +            +
+CSCI 199:            COMPSC    3           +            +            +
 *Integrative*
 *Learning in*
 *Computer Science*

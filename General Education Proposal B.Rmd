@@ -3,6 +3,7 @@ title: "General Education Proposal B"
 author: "Dickinson State University"
 date: '`r format(Sys.time(), "%B %d, %Y")`'
 output: rmarkdown::tufte_handout
+
 ---
 
 # Mission Statement
