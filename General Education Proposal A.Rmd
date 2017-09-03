@@ -189,7 +189,7 @@ Table: Citizenship Courses
 --------------------------------------------
 
 \newpage
-## Critical and Creative Thinking^[16 CREDITS REQUIRED]
+## Critical and Creative Thinking^[19 CREDITS REQUIRED]
 
 \newthought{Definition:} Critical and creative thinking are intellectual skills in which knowledge and literacy are used to process information, construct understanding, apply knowledge, solve problems, and conduct inquiry. 
 \newthought{Goal Statement:} Upon completion of the General Education curriculum, students will consciously and correctly use critical and creative thinking skills while gaining knowledge of the Arts and Humanities, 
@@ -206,7 +206,7 @@ Mathematics, Natural Sciences, and Social Sciences.
 
 \newpage
 \newthought{Required Coursework:}
-Students are required to pass 16 credits of critical and creative thinking coursework with at least one course from each list in table four. 
+Students are required to pass 19 credits of critical and creative thinking coursework with at least one course from each list in table four.
 
 ------------------------------------------------------------------------------------------------------------
                                                        Outcomes
@@ -256,7 +256,7 @@ B     ENGL 240:                   HUM        3          ?         ?           ? 
 B     MUSC 100:                    HUM        3       ?            ?          ?       ?      ?
       *Music Appreciation*
 
-B     THEA 110:                    HUM        3       ?          ?          ?       ?      ? 
+B     THEA 110:                    HUM        3       ?            ?          ?       ?      ? 
       *Introduction*
       *to Theatre Arts*
 
@@ -333,23 +333,6 @@ E     HIST 212:                   HIST       3        +           +          +  
 ----------------------------------------------------------------------------------------------------------
 Table: Critical and Creative Courses
 
------------------------------------------------------
-
-\newpage
-
-## Broadening Perspective Electives^[3 CREDITS REQUIRED]
-
-\newthought{Definition:} TBD
-
-\newthought{Goal Statement:} TBD
-
-\newthought{Required Coursework:} Students are required to pass three elective credits in GERTA general education areas^[COMM, FA, HUM, SS, MATH, LABSC, or COMPSC] that are not hosted by their major department.  If a student changes their major, then they may need to take additional electives to fulfill the broadening perspective elective requirements.
-
-------------------------------
-
-# General Education Assessment
-
-All instructors and departments that teach or host courses for the General Education Program are required to participate in the the assessment of student learning within the General Education Program.  The General Education Council is responsible for recommending changes to the assessment framework for ultimate approval by Faculty Senate.  The Assessment Committee under the supervision of Academic Affairs is responsible for implementing the General Education Assessment framework adopted by Faculty Senate.
 
 -----------------------------
 

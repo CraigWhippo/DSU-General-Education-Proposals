@@ -1,14 +1,15 @@
 ---
-title: "General Education Proposal B"
+title: "General Education Proposal C"
 author: "Dickinson State University"
 date: '`r format(Sys.time(), "%B %d, %Y")`'
 output: rmarkdown::tufte_handout
+
 
 ---
 
 # Mission Statement
 
-\newthought{In alignment with Dickinson State University's mission}, the General Education program both complements and transcends individual academic emphases. Through the General Education curriculum^[39 TOTAL CREDITS REQUIRED], students demonstrate the following proficiencies: effective communication, citizenship, critical and creative thinking, and integrative learning. In meeting these proficiencies, students mature into independent life-long learners.
+\newthought{In alignment with Dickinson State University's mission}, the General Education program both complements and transcends individual academic emphases. Through the General Education curriculum^[37 TOTAL CREDITS REQUIRED], students demonstrate the following proficiencies: effective communication, citizenship, critical and creative thinking, and integrative learning. In meeting these proficiencies, students mature into independent life-long learners.
 
 --------------------------------
 
@@ -62,7 +63,7 @@ Table: Communication Courses
 ---------------------------------------------------
 
 \newpage
-## Citizenship^[8 CREDITS REQUIRED]
+## Citizenship^[6 CREDITS REQUIRED]
 \newthought{Definition:} Citizenship involves individuals attuned to the multiple perspectives inherent in our socially and culturally diverse world. Citizens are cognizant of their own health and well-being, demonstrate an understanding of the impact one has on the arenas outside of the self, and engage with complex, authentic issues both locally and globally.
 \newthought{Goal Statement:} Students will progressively maintain their personal health and well-being and consider diverse social-cultural perspectives as they navigate and evaluate approaches to local and global issues.
 
@@ -93,7 +94,7 @@ B      POLS 115:                 SS         3          +           +         +  
       *American*
       *Government*
 
-B      PSYC 111:                   SS        3          ?           ?        ?     ?
+B      PSYC 111:                  SS        3          ?           ?        ?     ?
        *Introduction to*
        *Psychology*
 
@@ -104,14 +105,6 @@ B      SOC 110:                  SS         3          -           -         +  
 B      SOC  115:                     SS     3          ?           ?       ?       ?
       *Social Problems*
 
-C      HPER 100:                            2          +           +         -        -
-       *Concepts of*
-       *Health & Wellness*
-      
-C      NURS 240:                             2          +           +         -        -
-       *Fundamentals of*
-       *Nutirition*
-       
 ----------------------------------------------------------------------------------------------------------
 Table: Citizenship Courses
 
@@ -164,7 +157,7 @@ B     ART 110:                    HUM        3         +           +          + 
       *Introduction to*
       *the Visual Arts*
 
-B     COMM 211:                   HUM       3          ?            ?           ?     ?     ?
+B     COMM 211:                   HUM        3          ?            ?           ?     ?     ?
       *Oral Interpretation*
       
 B     COMM 280:                   HUM        3        +           +          +       +      +
@@ -185,7 +178,7 @@ B     ENGL 240:                   HUM        3          ?         ?           ? 
 B     MUSC 100:                    HUM        3       ?            ?          ?       ?      ?
       *Music Appreciation*
 
-B     THEA 110:                    HUM          3       ?          ?          ?       ?      ? 
+B     THEA 110:                    HUM        3       ?          ?          ?       ?      ? 
       *Introduction*
       *to the Theatre Arts*
 
@@ -269,6 +262,8 @@ Table: Critical and Creative Courses
 -----------------------------------------------------
 
 \newpage
+
+
 ## Integrative Learning^[6 CREDITS REQUIRED]
 
 \newthought{Definition:} Integrative Learning is the awareness and application of skills in multiple contexts, which lead to new insights, as well as personal, social, and intellectual development.
@@ -282,19 +277,11 @@ Table: Critical and Creative Courses
 2. Analyze and reflect upon insights gained from integrating multiple perspectives in a project or experience
 3. Describe, evaluate, or interpret problems using concepts and methods from at least two diverse disciplines
 
-\newthought{Required Coursework:}
-Students are required to pass three credits of integrative learning coursework from table four. These courses can also contribute towards the critical and creative thinking requirements.
 
--------------------------------------------------------------------------------------------
-                                            Learning Objectives
-Courses              GERTA      Credits   1           2           3        
--------------------- --------- --------- ----------- ----------- --------
-TBD                   ANY        3         +           +           +
+\newthought{Required Coursework:} Students are required to pass six elective credits the areas of Communication, Fine Arts, Humanities, Social Sciences, Mathematics, Computer Science, or Laboratory Science that are designated as Integrated Learning Courses as indicated by an asterisk symbol. 
 
--------------------------------------------------------------------------------------------
-Table: Integrated Learning Courses
+------------------------------
 
----------------------------------------------
 
 \newpage
 
@@ -312,13 +299,12 @@ Arts & Humanities                                          6             6
 
 Social Sciences                                            6             6         
 
-Mathematics, Science,and Technology                         9            10        
+Mathematics, Science,and Technology                        9            10        
 
 Institution Specific                                       6             6         
                  
-Health & Wellness                                          0             2         
 
-**Total**                                                **36**       **39**
+**Total**                                                **36**       **37**
 -------------------------------------------------------------------------------------------------
 Table: Comparison of GERTA and DSU General Education Credit Requirements
 
