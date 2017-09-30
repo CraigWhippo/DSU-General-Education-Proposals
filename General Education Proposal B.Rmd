@@ -1,5 +1,5 @@
 ---
-title: "General Education Proposal B"
+title: "General Education Proposal"
 author: "Dickinson State University"
 date: '`r format(Sys.time(), "%B %d, %Y")`'
 output: rmarkdown::tufte_handout
@@ -93,7 +93,7 @@ B      POLS 115:                 SS         3          +           +         +  
       *American*
       *Government*
 
-B      PSYC 111:                   SS        3          ?           ?        ?     ?
+B      PSYC 111:                   SS        3        +            +        +     +
        *Introduction to*
        *Psychology*
 
@@ -157,35 +157,51 @@ A     MUSC 140-440A:              FA         3        ?            ?           ?
 A     MUSC 141-441B:              FA         3        ?            ?           ?         ?     ?            
       *Concert Band*
 
-A     THEA 201-301:               FA         3        ?             ?          ?       ?      ?
+A     THEA 201-301:               FA         3        +             +          +       +      +
       *Theatre Practicum*
 
 B     ART 110:                    HUM        3         +           +          +       +      +
       *Introduction to*
       *the Visual Arts*
 
-B     COMM 211:                   HUM       3          ?            ?           ?     ?     ?
+B     COMM 211:                   HUM       3          +            +          +      +     +
       *Oral Interpretation*
       
-B     COMM 280:                   HUM        3        +           +          +       +      +
+B     COMM 280:                   HUM        3        +           +          +        +      +
       *Understanding*
       *Film and TV*
+
+B     ENGL 220:                   HUM         3        +          +           +       +       +
+      *Introduction*
+      *To Literature*
       
 B     ENGL 232:                   HUM        3        +           +          +       +      +
       *Mythology*
 
-B     ENGL 220:                   HUM         3        ?          ?           ?       ?       ?
-      *Introduction*
-      *To Literature*
+B     ENGL 236                    HUM         3       +           +           +       +     +
+      *Literature of*
+      *Women*
       
-B     ENGL 240:                   HUM        3          ?         ?           ?       ?      ?
+B     ENGL 240:                   HUM        3        +           +          +       +      +
       *Masterpieces*
       *of World Literature*
       
-B     MUSC 100:                    HUM        3       ?            ?          ?       ?      ?
+B     ENGL 250:                   HUM        3        +           +          +       +      +
+      *Masterpieces*
+      *of British Literature*
+      
+B     ENGL 260:                   HUM        3        +           +          +       +      +
+      *Masterpieces*
+      *of American Literature*
+      
+B     ENGL 265:                    HUM        3        +           +          +       +      +
+      *Native American*
+      *Literature*      
+      
+B     MUSC 100:                    HUM        3        +            +          +       +      +
       *Music Appreciation*
 
-B     THEA 110:                    HUM          3       ?          ?          ?       ?      ? 
+B     THEA 110:                    HUM          3      +            +          +       +      + 
       *Introduction*
       *to the Theatre Arts*
 
@@ -215,7 +231,7 @@ D     BIOL 151/L:                  LABSC*     4        +           +          + 
       *General*
       *Biology II*
 
-D     GEOL 105/L:                  LABSC      4        ?           ?         ?       ?       ?
+D     GEOL 105/L:                  LABSC      4        +           +         +       +       +
       *Physical*
       *Geology*
       
@@ -283,7 +299,7 @@ Table: Critical and Creative Courses
 3. Describe, evaluate, or interpret problems using concepts and methods from at least two diverse disciplines
 
 \newthought{Required Coursework:}
-Students are required to pass three credits of integrative learning coursework from table four. These courses can also contribute towards the critical and creative thinking requirements.
+Students are required to pass six credits of integrative learning coursework from table four. These courses can also contribute towards the critical and creative thinking requirements.
 
 -------------------------------------------------------------------------------------------
                                             Learning Objectives
