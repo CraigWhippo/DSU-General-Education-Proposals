@@ -285,7 +285,7 @@ Table: Critical and Creative Courses
 
 # Electives ^[6 CREDITS REQUIRED]
 
-Students are required to take an additional 6 credits in Fine Arts, Humanities, Mathmatics, Computer Science, Science, or Social Sciences.
+Students are required to take an additional 6 credits in Fine Arts, Humanities, Mathematics, Computer Science, Science, or Social Sciences.
 
 \newpage
 
