@@ -64,13 +64,13 @@ Table: Communication Courses
 \newpage
 ## Citizenship^[8 CREDITS REQUIRED]
 \newthought{Definition:} Citizenship involves individuals attuned to the multiple perspectives inherent in our socially and culturally diverse world. Citizens are cognizant of their own health and well-being, demonstrate an understanding of the impact one has on the arenas outside of the self, and engage with complex, authentic issues both locally and globally.
-\newthought{Goal Statement:} Students will progressively maintain their personal health and well-being and consider diverse social-cultural perspectives as they navigate and evaluate approaches to local and global issues.
+\newthought{Goal Statement:} Students will progressively maintain their personal health and well-being and consider diverse social-cultural perspectives as they integrate and evaluate approaches to local and global issues.
 
 \newthought{Student Outcomes:}
 
 1. Identify and incorporate strategies leading to individual health and well-being
 2. Predict and analyze the effects that one's decisions have on the well-being of others
-3. Navigate political, social, and cultural structures, utilizing multiple viewpoints, to contribute to a community's values and practices
+3. Integrate political, social, and cultural structures, utilizing multiple viewpoints, to contribute to a community's values and practices
 4. Apply technology effectively, safely and ethically in an evolving society
 
 \newpage
@@ -121,8 +121,7 @@ Table: Citizenship Courses
 ## Critical and Creative Thinking^[16 CREDITS REQUIRED]
 
 \newthought{Definition:} Critical and creative thinking are intellectual skills in which knowledge and literacy are used to process information, construct understanding, apply knowledge, solve problems, and conduct inquiry. 
-\newthought{Goal Statement:} Upon completion of the General Education curriculum, students will consciously and correctly use critical and creative thinking skills while gaining knowledge of the Arts and Humanities, 
-Mathematics, Natural Sciences, and Social Sciences.
+\newthought{Goal Statement:} Upon completion of the General Education curriculum, students integrate critical and creative thinking skills while gaining knowledge of the Arts and Humanities, Mathematics, Natural Sciences, and Social Sciences.
 
 \newthought{Student Outcomes:}
 
@@ -284,33 +283,9 @@ Table: Critical and Creative Courses
 
 -----------------------------------------------------
 
-\newpage
-## Integrative Learning^[6 CREDITS REQUIRED]
+# Electives ^[6 CREDITS REQUIRED]
 
-\newthought{Definition:} Integrative Learning is the awareness and application of skills in multiple contexts, which lead to new insights, as well as personal, social, and intellectual development.
-
-
-\newthought{Goal Statement:} Students will understand the broader implications of discipline-based knowledge and demonstrate an ability to connect ideas and methods across contexts and apply them to new problems.
-
-\newthought{Student Outcomes:}
-
-1. Integrate concepts and analytical frameworks from multiple perspectives to develop one or more of the following: more comprehensive descriptions, multi-causal explanations, new interpretations, or deeper explorations of issues
-2. Analyze and reflect upon insights gained from integrating multiple perspectives in a project or experience
-3. Describe, evaluate, or interpret problems using concepts and methods from at least two diverse disciplines
-
-\newthought{Required Coursework:}
-Students are required to pass six credits of integrative learning coursework from table four. These courses can also contribute towards the critical and creative thinking requirements.
-
--------------------------------------------------------------------------------------------
-                                            Learning Objectives
-Courses              GERTA      Credits   1           2           3        
--------------------- --------- --------- ----------- ----------- --------
-TBD                   ANY        3         +           +           +
-
--------------------------------------------------------------------------------------------
-Table: Integrated Learning Courses
-
----------------------------------------------
+Students are required to take an additional 6 credits in Fine Arts, Humanities, Mathmatics, Computer Science, Science, or Social Sciences.
 
 \newpage
 
@@ -328,7 +303,7 @@ Arts & Humanities                                          6             6
 
 Social Sciences                                            6             6         
 
-Mathematics, Science,and Technology                         9            10        
+Mathematics, Science,and Technology                        9            10        
 
 Institution Specific                                       6             6         
                  
