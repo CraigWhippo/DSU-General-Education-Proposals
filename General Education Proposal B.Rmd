@@ -62,7 +62,7 @@ Table: Communication Courses
 ---------------------------------------------------
 
 \newpage
-## Citizenship^[8 CREDITS REQUIRED]
+## Citizenship^[11 CREDITS REQUIRED]
 \newthought{Definition:} Citizenship involves individuals attuned to the multiple perspectives inherent in our socially and culturally diverse world. Citizens are cognizant of their own health and well-being, demonstrate an understanding of the impact one has on the arenas outside of the self, and engage with complex, authentic issues both locally and globally.
 \newthought{Goal Statement:} Students will progressively maintain their personal health and well-being and consider diverse social-cultural perspectives as they integrate and evaluate approaches to local and global issues.
 
@@ -75,7 +75,7 @@ Table: Communication Courses
 
 \newpage
 \newthought{Required Coursework:}
-Students are required to pass eight credits of citizenship coursework with at least one course from each list in table two. 
+Students are required to pass eleven credits of citizenship coursework with at least one course from each list in table two. 
 
 ------------------------------------------------------------------------------------------------------------
                                                     Outcomes
@@ -89,37 +89,41 @@ B      COMM 216:                 SS         3          +           +         +  
       *Intercultural*
       *Communications*
 
-B      GEOG  161:                    SS     3          ?           ?       ?       ?
-      *World Regional*
-      *Geography*
-      
-B      GEOG  191:                 SS*      3          ?           ?       ?       ?
+B      GEOG  121:                 SS*      3          ?           ?       ?       ?
       *Physical Geography*
 
-B      GEOG  361:                 SS*      3          ?           ?       ?       ?
-      *Geography of*
-      *Latin America*
+B      GEOG  161:                   SS     3          ?           ?       ?       ?
+      *World Regional*
+      *Geography*
 
-B      POLS 115:                 SS         3          +           +         +     + 
+B      SPAN  101:                 HUM      3          ?           ?       ?       ?
+       *First Year*
+       *Spanish I*
+
+B      SPAN  102:                 HUM      3          ?           ?       ?       ?
+       *First Year*
+       *Spanish II*
+
+C      POLS 115:                 SS         3          +           +         +     + 
       *American*
       *Government*
 
-B      PSYC 111:                   SS        3        +            +        +     +
+C      PSYC 111:                   SS        3        +            +        +     +
        *Introduction to*
        *Psychology*
 
-B      SOC 110:                  SS         3          -           -         +      +  
+C      SOC 110:                  SS         3          -           -         +      +  
       *Introduction to*
       *Sociology*
       
-B      SOC  115:                    SS     3          ?           ?       ?       ?
+C      SOC  115:                    SS     3          ?           ?       ?       ?
       *Social Problems*
 
-C      HPER 100:                            2          +           +         -        -
+D      HPER 100:                           2          +           +         -        -
        *Concepts of*
        *Health & Wellness*
       
-C      NURS 240:                             2          +           +         -        -
+D      NURS 240:                            2          +           +         -        -
        *Fundamentals of*
        *Nutirition*
        
@@ -169,6 +173,10 @@ A     ART 280:                    FA         3        +           +          +  
       *Introduction to*
       *Digital Photography*
 
+A     ENGL 211:                   HUM         3        +          +           +       +       +
+      *Introduction to*
+      *Creative Writing*
+
 A     COMM 211:                   HUM       3          +            +          +      +     +
       *Oral Interpretation*
       
@@ -176,7 +184,7 @@ A     COMM 280:                   HUM        3        +           +          +  
       *Understanding*
       *Film and TV*
       
-A     MUSC 100:                   FA         3        ?            ?           ?        ?       ?
+A     MUSC 100:                   FA         3        +            +           -        -       +
       *Music Appreciation*
       
 A     MUSC 102:                   FA         3        ?            ?           ?        ?       ?
@@ -190,7 +198,7 @@ A     MUSC 110:                   FA         3        ?            ?           ?
 A     MUSC 140-440A:              FA         3        ?            ?           ?        ?       ?
       *A & B Chorale*
 
-A     MUSC 141-441B:              FA         3        ?            ?           ?         ?     ?            
+A     MUSC 141-441B:              FA         3        -           -           +         +     -            
       *A & B Concert Band*
 
 A     MUSC 201:                   FA         3        ?            ?           ?        ?       ?
@@ -207,9 +215,7 @@ A     THEA 161:                   FA         3        ?             ?          ?
 A     THEA 201-301:               FA         3        +             +          +       +      +
       *Theatre Practicum*
 
-B     ENGL 211:                   HUM         3        +          +           +       +       +
-      *Introduction to*
-      *Creative Writing*
+
 
 B     ENGL 220:                   HUM         3        +          +           +       +       +
       *Introduction*
@@ -361,9 +367,9 @@ Table: Critical and Creative Courses
 
 -----------------------------------------------------
 
-# Electives ^[6 CREDITS REQUIRED]
+# Electives ^[3 CREDITS REQUIRED]
 
-Students are required to take an additional 6 credits in Fine Arts, Humanities, Mathematics, Computer Science, Science, or Social Sciences.
+Students are required to take an additional six additional credits from the General Education curriculum in the areas of Fine Arts, Humanities, Mathematics, Computer Science, Science, or Social Sciences.
 
 \newpage
 
@@ -414,9 +420,9 @@ Knowledge Areas                  DSU General Education Category           List(s
 -------------------------------- --------------------------------------- ---------------
 Natural Sciences                 Critical & Creative Thinking                D
 
-Human Cultures                   Critical & Creative Thinking              B & E
+Human Cultures                   Citizenship                                 B
 
-Human Society                    Citizenship                                 B
+Human Society                    Citizenship                                 C 
 
 Creative Expression              Critical & Creative Thinking                A
 
@@ -436,10 +442,3 @@ Table: Mapping of Interstate Passport crosscutting-skill blocks to DSU General E
 
 ---------------------------------------------------
 
-# TBD
-
-EDUC 300 -Teaching for Diversity
-LEAD 100H - 21st Century Leadership
-!RELS 203 - World Relegions
-SPAN 101 - First Year Spanish I
-SPAN 102 - First Year Spanish II
