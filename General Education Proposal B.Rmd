@@ -365,7 +365,7 @@ Table: Critical and Creative Courses
 
 # General Education Electives ^[3 CREDITS REQUIRED]
 
-Students are required to take an additional six additional credits from the General Education curriculum in the areas of Fine Arts, Humanities, Mathematics, Computer Science, Science, or Social Sciences.
+Students are required to take three additional credits from the General Education curriculum in the areas of Fine Arts, Humanities, Mathematics, Computer Science, Science, or Social Sciences.
 
 \newpage
 
