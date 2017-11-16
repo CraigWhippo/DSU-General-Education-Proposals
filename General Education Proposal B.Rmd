@@ -79,7 +79,7 @@ Students are required to pass eleven credits of citizenship coursework with at l
 
 ------------------------------------------------------------------------------------------------------------
                                                     Outcomes
-List Course                  GERTA      Credits   1           2         3        4    
+List Course                   GERTA      Credits   1           2         3        4    
 ---- ----------------------- --------- --------- ----------- --------- -------- ------ 
 A      CSCI 101:                COMPSC      3          +        -         -        +  
       *Introduction to*
@@ -92,7 +92,7 @@ B      COMM 216:                 SS         3          +           +         +  
 B      GEOG  121:                 SS*      3          ?           ?       ?       ?
       *Physical Geography*
 
-B      GEOG  161:                   SS     3          ?           ?       ?       ?
+B      GEOG  161:                 SS      3          ?           ?       ?       ?
       *World Regional*
       *Geography*
 
@@ -128,7 +128,7 @@ D      NURS 240:                            2          +           +         -  
        *Nutirition*
        
 ----------------------------------------------------------------------------------------------------------
-Table: Citizenship Courses
+Table: Citizenship Courses.  
 
 --------------------------------------------
 
@@ -244,10 +244,6 @@ B     ENGL 265:                    HUM        3        +           +          + 
       *Native American*
       *Literature*      
 
-B     PHIL 101:                    HUM        3        ?           ?          ?       ?      ?
-      *Introduction*
-      *to Philosophy*       
-
 C     MATH 103:                    MATH       4        +           +          +       +      +
       *College Algebra*
 
@@ -273,7 +269,7 @@ D     BIOL 111/L:                  LABSC      4        +           +          + 
       *Concepts of*
       *Biology*
 
-D     BIOL 112:                    LABSC      4        +           +          +       +      +
+D     BIOL 112:                    LABSC*      4        +           +          +       +      +
       *Exploring*
       *Human Health*
 
@@ -367,7 +363,7 @@ Table: Critical and Creative Courses
 
 -----------------------------------------------------
 
-# Electives ^[3 CREDITS REQUIRED]
+# General Education Electives ^[3 CREDITS REQUIRED]
 
 Students are required to take an additional six additional credits from the General Education curriculum in the areas of Fine Arts, Humanities, Mathematics, Computer Science, Science, or Social Sciences.
 
@@ -398,6 +394,50 @@ Health & Wellness                                          0             2
 Table: Comparison of GERTA and DSU General Education Credit Requirements
 
 ------------------------------------------
+
+\newpage
+
+------------------------------------------------------------------------------------------------------
+Proficiency     List Course               GERTA      Credits
+------------- ------ -------------------- --------- ---------
+Citizenship   B      GEOG  121:               SS*       3  
+                     *Physical Geology*  
+                     
+Critical &    C      MATH 110:                MATH*      3
+Creative             *Liberal Arts*                 
+Thinking             *Mathematics*
+
+Critical &    D      BIOL 112/L:            LABSC*      4
+Creative             *Exploring*                 
+Thinking             *Human Health*  
+
+Critical &    D      BIOL 151/L:            LABSC*      4
+Creative             *General BiOlogy II*                
+Thinking     
+
+Critical &    D      GEOL 106/L:             LABSC*      4
+Creative             *Earth Through*                 
+Thinking             *Time*
+
+Critical &    D      PHYS 110/L:              LABSC*      4
+Creative             *Introductory*                 
+Thinking             *Astronomy*
+
+Critical &    D      PHYS 212/L:              LABSC*      4
+Creative             *College*                 
+Thinking             *Physics II*
+
+
+Critical &    D      PHYS 252/L:              LABSC*      4
+Creative             *University*                 
+Thinking             *Physics II*
+
+Critical &    E      ECON 202:                 SS*         3
+Creative             *Principles of*                 
+Thinking             *Macroeconomics*
+------------------------------------------------------------------------------------------------------
+Table: Courses with not in DSU's GERTA Guide silver pages 
+
 
 \newpage
 
