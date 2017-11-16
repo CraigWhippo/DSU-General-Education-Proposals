@@ -436,7 +436,7 @@ Critical &    E      ECON 202:                 SS*         3
 Creative             *Principles of*                 
 Thinking             *Macroeconomics*
 ------------------------------------------------------------------------------------------------------
-Table: Courses with not in DSU's GERTA Guide silver pages 
+Table: Courses not in DSU's GERTA Guide silver pages 
 
 
 \newpage
