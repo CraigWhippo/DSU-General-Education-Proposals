@@ -187,7 +187,7 @@ A     COMM 280:                   HUM        3        +           +          +  
 A     MUSC 100:                   FA         3        +            +           -        -       +
       *Music Appreciation*
       
-A     MUSC 102:                   FA         3        ?            ?           ?        ?       ?
+A     MUSC 102:                   FA         3        +            +           +        -       +
       *Popular American*
       *Music*
       
