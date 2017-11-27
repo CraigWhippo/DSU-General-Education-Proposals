@@ -96,11 +96,11 @@ B      GEOG  161:                 SS      3          ?           ?       ?      
       *World Regional*
       *Geography*
 
-B      SPAN  101:                 HUM      3          ?           ?       ?       ?
+B      SPAN  101:                 HUM      3          -           -       +       -
        *First Year*
        *Spanish I*
 
-B      SPAN  102:                 HUM      3          ?           ?       ?       ?
+B      SPAN  102:                 HUM      3          -           -       +       -
        *First Year*
        *Spanish II*
 
@@ -195,7 +195,7 @@ A     MUSC 110:                   FA         3        +            +           +
       *Foundations of*
       *Music*
 
-A     MUSC 140-440A:              FA         3        ?            ?           ?        ?       ?
+A     MUSC 140-440A:              FA         3        +            +           -        -       -
       *A & B Chorale*
 
 A     MUSC 141-441B:              FA         3        -           -           +         +     -            
