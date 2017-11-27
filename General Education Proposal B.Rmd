@@ -85,14 +85,14 @@ A      CSCI 101:                COMPSC      3          +        -         -     
       *Introduction to*
       *Computers*
 
-B      COMM 216:                 SS         3          +           +         +    +
+B      COMM 216:                 SS         3          -           +         +    -
       *Intercultural*
       *Communications*
 
 B      GEOG  121:                 SS*      3          ?           ?       ?       ?
       *Physical Geography*
 
-B      GEOG  161:                 SS      3          ?           ?       ?       ?
+B      GEOG  161:                 SS      3          ?           ?       ?        ?
       *World Regional*
       *Geography*
 
@@ -191,7 +191,7 @@ A     MUSC 102:                   FA         3        ?            ?           ?
       *Popular American*
       *Music*
       
-A     MUSC 110:                   FA         3        ?            ?           ?        ?       ?
+A     MUSC 110:                   FA         3        +            +           +        -       -
       *Foundations of*
       *Music*
 
@@ -201,18 +201,18 @@ A     MUSC 140-440A:              FA         3        ?            ?           ?
 A     MUSC 141-441B:              FA         3        -           -           +         +     -            
       *A & B Concert Band*
 
-A     MUSC 201:                   FA         3        ?            ?           ?        ?       ?
+A     MUSC 201:                   FA         3        +            +           +        -       +
       *World Music*
 
-A     THEA 110:                   FA         3        ?             ?          ?       ?      ?
+A     THEA 110:                   FA         3        +             +          +       +      +
       *Introduction*
       *to Theather*
       *Arts*
 
-A     THEA 161:                   FA         3        ?             ?          ?       ?      ?
+A     THEA 161:                   FA         3        +             +          +       +      +
       *Acting I*
     
-A     THEA 201-301:               FA         3        +             +          +       +      +
+A     THEA 201-301:               FA         3        +             +          +       +      -
       *Theatre Practicum*
 
 
