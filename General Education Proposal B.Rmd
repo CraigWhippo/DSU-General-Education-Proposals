@@ -123,7 +123,7 @@ D      HPER 100:                           2          +           +         -   
        *Concepts of*
        *Health & Wellness*
       
-D      NURS 240:                            2          +           +         -        -
+D      NURS 240:                            2          +           +         +        -
        *Fundamentals of*
        *Nutirition*
        
@@ -169,7 +169,7 @@ A     ART 130:                    FA         3        +           +          +  
 A     ART 250:                    FA         3        +           +          +       +      +
       *Ceramics 1*
       
-A     ART 280:                    FA         3        +           +          +       +      +
+A     ART 281:                    FA         3        +           +          +       +      +
       *Introduction to*
       *Digital Photography*
 
