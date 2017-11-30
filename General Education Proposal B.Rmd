@@ -250,15 +250,15 @@ C     MATH 103:                    MATH       4        +           +          + 
 C     MATH 107:                    MATH       4        +           +          +       +      +
       *Pre-Calculus*
 
-C     MATH 110:                   MATH*       3       ?            ?          ?       ?      ?
+C     MATH 110:                   MATH*       3        +            +          +      +      +
       *Liberal Arts*
       *Mathematics*
 
-C     MATH 146:                   MATH        3        ?           ?          ?       ?      ?  
+C     MATH 146:                   MATH        3        +           +          +       +      +  
       *Applied*
       *Calculus I*
       
-C     MATH 165:                    MATH       4        ?           ?          ?        ?      ?
+C     MATH 165:                    MATH       4        +           +          +        +      +
       *Calculus I*
 
 C     MATH 305:                    MATH       4        +           +          +       +      +
