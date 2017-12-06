@@ -8,7 +8,7 @@ output: rmarkdown::tufte_handout
 
 # Mission Statement
 
-\newthought{In alignment with Dickinson State University's mission}, the General Education program both complements and transcends individual academic emphases. Through the General Education curriculum^[39 TOTAL CREDITS REQUIRED], students demonstrate the following proficiencies: effective communication, citizenship, critical and creative thinking, and integrative learning. In meeting these proficiencies, students mature into independent life-long learners.
+\newthought{In alignment with Dickinson State University's mission}, the General Education program both complements and transcends individual academic emphases. Through the General Education curriculum^[39 TOTAL CREDITS REQUIRED], students demonstrate the following proficiencies with an integrative approach: effective communication, citizenship, critical and creative thinking In meeting these proficiencies, students mature into independent life-long learners.
 
 --------------------------------
 
@@ -30,7 +30,7 @@ output: rmarkdown::tufte_handout
 \newpage
 
 \newthought{Required Coursework:}
-Students are required to pass nine credits of communication coursework with at least one course from each list in table one. 
+Students are required to pass 9 credits of communication coursework with at least one course from each of lists A, B, and C.
 
 ------------------------------------------------------------------------------------------------------------
                                                     Outcomes
@@ -75,7 +75,7 @@ Table: Communication Courses
 
 \newpage
 \newthought{Required Coursework:}
-Students are required to pass eleven credits of citizenship coursework with at least one course from each list in table two. 
+Students are required to pass 11 credits of citizenship coursework with at least one course from each of lists A, B, C, and D.
 
 ------------------------------------------------------------------------------------------------------------
                                                     Outcomes
@@ -89,10 +89,10 @@ B      COMM 216:                 SS         3          -           +         +  
       *Intercultural*
       *Communications*
 
-B      GEOG  121:                 SS*      3          ?           ?       ?       ?
+B      GEOG  121:                 SS*      3          -           +       +       -
       *Physical Geography*
 
-B      GEOG  161:                 SS      3          ?           ?       ?        ?
+B      GEOG  161:                 SS      3          -           +       +        -
       *World Regional*
       *Geography*
 
@@ -116,7 +116,7 @@ C      SOC 110:                  SS         3          -           -         +  
       *Introduction to*
       *Sociology*
       
-C      SOC  115:                    SS     3          ?           ?       ?       ?
+C      SOC  115:                    SS     3          -           +       +       -
       *Social Problems*
 
 D      HPER 100:                           2          +           +         -        -
@@ -149,7 +149,7 @@ Table: Citizenship Courses.
 
 \newpage
 \newthought{Required Coursework:}
-Students are required to pass 16 credits of critical and creative thinking coursework with at least one course from each list in table three. 
+Students are required to pass 3 credits from lists A, B, C, and D, and at least four credits including a laboratory credit from list E.” 
 
 ------------------------------------------------------------------------------------------------------------
                                                        Outcomes
@@ -167,7 +167,7 @@ A     ART 130:                    FA         3        +           +          +  
       *Drawing I*
 
 A     ART 250:                    FA         3        +           +          +       +      +
-      *Ceramics 1*
+      *Ceramics I*
       
 A     ART 281:                    FA         3        +           +          +       +      +
       *Introduction to*
@@ -195,10 +195,10 @@ A     MUSC 110:                   FA         3        +            +           +
       *Foundations of*
       *Music*
 
-A     MUSC 140-440A:              FA         3        +            +           -        -       -
+A     MUSC 140-440A:              FA         1        +            +           -        -       -
       *A & B Chorale*
 
-A     MUSC 141-441B:              FA         3        -           -           +         +     -            
+A     MUSC 141-441B:              FA         1        -           -           +         +     -            
       *A & B Concert Band*
 
 A     MUSC 201:                   FA         3        +            +           +        -       +
@@ -212,7 +212,7 @@ A     THEA 110:                   FA         3        +             +          +
 A     THEA 161:                   FA         3        +             +          +       +      +
       *Acting I*
     
-A     THEA 201-301:               FA         3        +             +          +       +      -
+A     THEA 201-301:               FA         1        +             +          +       +      -
       *Theatre Practicum*
 
 
@@ -265,99 +265,98 @@ C     MATH 305:                    MATH       4        +           +          + 
       *Probability &*
       *Statistics*
 
-D     BIOL 111/L:                  LABSC      4        +           +          +       +      +
+D     ECON 105:                     SS         3        +           +          +       +      +
+      *Elements*
+      *of Economics*
+
+D     ECON 106:                     SS         3        +           +          +       -      -
+      *Global*
+      *Economics*
+
+D     ECON 201:                     SS         3        +           -          +       +      +
+      *Principles of*
+      *Microeconomics*
+
+D     ECON 202:                    SS*        3        +           +          +       +      +
+      *Principles of*
+      *Macroeconomics*
+
+D     HIST 103:                   HIST       3        +           +          +       +      +
+      *United States*
+      *To 1877*
+
+D     HIST 104:                   HIST       3        +           +          +       +      +
+      *United States*
+      *Since 1877*
+
+D     HIST 211:                   HIST       3        +           +          +       -      -
+      *World Civilizations*
+      *To 1500*
+
+D     HIST 212:                   HIST       3        +           +          +       +      +
+      *World Civilizations*
+      *Since 1500*
+
+E     BIOL 111/L:                  LABSC      4        +           +          +       +      +
       *Concepts of*
       *Biology*
 
-D     BIOL 112:                    LABSC*      4        +           +          +       +      +
+E     BIOL 112:                    LABSC*      4        +           +          +       +      +
       *Exploring*
       *Human Health*
 
-D     BIOL 150/L:                  LABSC     4        +           +          +       +      +
+E     BIOL 150/L:                  LABSC     4        +           +          +       +      +
       *General*
       *Biology I*      
       
-D     BIOL 151/L:                  LABSC*     4        +           +          +       +      +
+E     BIOL 151/L:                  LABSC*     4        +           +          +       +      +
       *General*
       *Biology II*
       
-D     CHEM 115/L:                  LABSC     4        +           +          +       +      +
+E     CHEM 115/L:                  LABSC     4        +           +          +       +      +
       *Introductory*
       *Chemistry*
 
-D     CHEM 121/L:                  LABSC     5        +           +          +       +      +
+E     CHEM 121/L:                  LABSC     5        +           +          +       +      +
       *General*
       *Chemistry I*
       
-D     CHEM 122/L:                  LABSC     5        +           +          +       +      +
+E     CHEM 122/L:                  LABSC     5        +           +          +       +      +
       *General*
       *Chemistry II*
 
-D     GEOL 105/L:                  LABSC      4        +           +         +       +       +
+E     GEOL 105/L:                  LABSC      4        +           +         +       +       +
       *Physical*
       *Geology*
       
 
-D     GEOL 106/L:                  LABSC*      4        +           +         +       +       +
+E     GEOL 106/L:                  LABSC*      4        +           +         +       +       +
       *The Earth*
       *Though time*
 
-D     PHYS 110/L:                 LABSC*      4        +           +          +       +      +
+E     PHYS 110/L:                 LABSC*      4        +           +          +       +      +
       *Introductory*
       *Astronomy*
      
-D     PHYS 211/L:                 LABSC      4        +           +          +       +      +
+E     PHYS 211/L:                 LABSC      4        +           +          +       +      +
       *College*
       *Physics I*
 
-D     PHYS 212/L:                 LABSC      4        +           +          +       +      +
+E     PHYS 212/L:                 LABSC      4        +           +          +       +      +
       *College*
       *Physics II*
      
-D     PHYS 251/L:                 LABSC*      4        +           +          +       +      +
+E     PHYS 251/L:                 LABSC*      4        +           +          +       +      +
       *University*
       *Physics I*
 
-D     PHYS 252/L:                 LABSC*      4        +           +          +       +      +
+E     PHYS 252/L:                 LABSC*      4        +           +          +       +      +
       *University*
       *Physics II*
 
-D     SCNC 105:                    LABSC      4        +           +          +       +      +
+E     SCNC 105:                    LABSC      4        +           +          +       +      +
       *Physical*
       *Science*
-
-E     ECON 105:                     SS         3        +           +          +       +      +
-      *Elements*
-      *of Economics*
-
-E     ECON 106:                     SS         3        +           +          +       -      -
-      *Global*
-      *Economics*
-
-E     ECON 201:                     SS         3        +           -          +       +      +
-      *Principles of*
-      *Microeconomics*
-
-E     ECON 202:                    SS*        3        +           +          +       +      +
-      *Principles of*
-      *Macroeconomics*
-
-E     HIST 103:                   HIST       3        +           +          +       +      +
-      *United States*
-      *To 1877*
-
-E     HIST 104:                   HIST       3        +           +          +       +      +
-      *United States*
-      *Since 1877*
-
-E     HIST 211:                   HIST       3        +           +          +       -      -
-      *World Civilizations*
-      *To 1500*
-
-E     HIST 212:                   HIST       3        +           +          +       +      +
-      *World Civilizations*
-      *Since 1500*
-
 ----------------------------------------------------------------------------------------------------------
 Table: Critical and Creative Courses
 
@@ -365,7 +364,7 @@ Table: Critical and Creative Courses
 
 # General Education Electives ^[3 CREDITS REQUIRED]
 
-Students are required to take three additional credits from the General Education curriculum in the areas of Fine Arts, Humanities, Mathematics, Computer Science, Science, or Social Sciences.
+Students are required to take one additional course of three or more credits from the General Education curriculum.
 
 \newpage
 
@@ -412,7 +411,7 @@ Creative             *Exploring*
 Thinking             *Human Health*  
 
 Critical &    D      BIOL 151/L:            LABSC*      4
-Creative             *General BiOlogy II*                
+Creative             *General Biology II*                
 Thinking     
 
 Critical &    D      GEOL 106/L:             LABSC*      4
