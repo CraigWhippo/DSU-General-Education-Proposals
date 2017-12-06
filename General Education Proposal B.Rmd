@@ -362,7 +362,7 @@ Table: Critical and Creative Courses
 
 -----------------------------------------------------
 
-# General Education Electives ^[3 CREDITS REQUIRED]
+## General Education Electives ^[3 CREDITS REQUIRED]
 
 Students are required to take one additional course of three or more credits from the General Education curriculum.
 
